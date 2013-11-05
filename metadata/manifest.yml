@@ -4,7 +4,7 @@ Architecture: noarch
 Cartridge-Short-Name: POSTGRESQL
 Cartridge-Version: 0.3.5
 Compatible-Versions: []
-Cartridge-Vendor: redhat
+Cartridge-Vendor: nwei
 Display-Name: PostgreSQL 9.2
 Description: PostgreSQL is an advanced Object-Relational database management system
 Version: '9.2'
@@ -56,3 +56,4 @@ Version-Overrides:
     - postgresql-8.4
     - postgresql
     - postgresql(version) = 8.4
+Source-Url: https://raw.github.com/xiama/pythoncartri/master/pyti1hon.zip
