@@ -56,4 +56,5 @@ Version-Overrides:
     - postgresql-8.4
     - postgresql
     - postgresql(version) = 8.4
-Source-Url: https://raw.github.com/xiama/pythoncartri/master/pyti1hon.zip
+#Source-Url: https://raw.github.com/xiama/pythoncartri/master/pyti1hon.zip
+Source-Url: https://github.com/xiama/pythoncartri.git
