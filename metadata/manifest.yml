@@ -57,7 +57,7 @@ Version-Overrides:
     - postgresql
     - postgresql(version) = 8.4
 Install-Build-Required: false    
-Source-Url: https://raw.github.com/xiama/pythoncartri/master/pyti1hon.zip
+#Source-Url: https://raw.github.com/xiama/pythoncartri/master/pyti1hon.zip
 #Source-Url: https://github.com/xiama/pythoncartri.git
 #Source-Url: https://github.com/nanwei/postgresqlv2cart/blob/master/v2psql.tar.gz
-#Source-Url: https://raw.github.com/nanwei/postgresqlv2cart/master/v2postgresql.tar.gz
+Source-Url: https://raw.github.com/nanwei/postgresqlv2cart/master/postgresqlv2cart.tar.gz
