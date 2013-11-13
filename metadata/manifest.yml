@@ -1,4 +1,3 @@
----
 Name: postgresql
 Architecture: noarch
 Cartridge-Short-Name: POSTGRESQL
@@ -59,5 +58,5 @@ Version-Overrides:
 Install-Build-Required: false    
 #Source-Url: https://raw.github.com/xiama/pythoncartri/master/pyti1hon.zip
 #Source-Url: https://github.com/xiama/pythoncartri.git
-#Source-Url: https://github.com/nanwei/postgresqlv2cart/blob/master/v2psql.tar.gz
-Source-Url: https://raw.github.com/nanwei/postgresqlv2cart/master/postgresqlv2cart.tar.gz
+#Source-Url: https://github.com/chunyunchen/ccymysql/raw/master/ccymysql.tar.gz
+Source-Url: https://github.com/nanwei/postgresqlv2cart/raw/master/postgresqlv2cart.tar.gz
